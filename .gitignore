@@ -1,0 +1,10 @@
+node_modules
+.env
+generated
+.vscode
+.postman
+postman
+*.http
+dist
+dist-ssr
+*.local
